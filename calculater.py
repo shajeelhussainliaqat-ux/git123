@@ -14,4 +14,12 @@ elif op == '/':
 else:
     print("Invalid operation")
 
+<<<<<<< HEAD
 This is verion V7    
+=======
+<<<<<<< HEAD
+This is version V6    
+=======
+This is verion V7    
+>>>>>>> 7e41472 (V7)
+>>>>>>> fb92b2d (V7)
